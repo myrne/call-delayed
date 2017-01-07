@@ -1,0 +1,28 @@
+{
+  "name": "call-delayed",
+  "version": "0.1.0",
+  "author": "Braveg1rl <braveg1rl@outlook.com>",
+  "description": "setTimeout, but with arguments reversed.",
+  "keywords": [],
+  "license": "MIT",
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-script": "^1.12.2",
+    "mocha": "^3.2.x"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "6.x.x"
+  },
+  "main": "lib/call-delayed.js",
+  "scripts": {
+    "prepublish": "npm test",
+    "pretest": "make build",
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/braveg1rl/call-delayed.git"
+  }
+}
