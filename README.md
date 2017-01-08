@@ -2,9 +2,20 @@
 
 setTimeout, but with arguments reversed.
 
+## Rationale
+
+It gets tiring to write
+```javascript
+function delay(time,fn) {setTimeout(fn,time)}
+```
+You'll get some nice assertions as a bonus.
+
 ## Usage
 
-
+```javascript
+var delay = require("call-delayed")
+delay(100, function{ console.log("Execution of this function has been delayed by 100ms.")})
+```
 
 ## License
 
