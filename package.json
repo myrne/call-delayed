@@ -1,6 +1,6 @@
 {
   "name": "call-delayed",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "Braveg1rl <braveg1rl@outlook.com>",
   "description": "setTimeout, but with arguments reversed.",
   "keywords": [],
@@ -8,6 +8,8 @@
   "private": false,
   "dependencies": {},
   "devDependencies": {
+    "bluebird": "^3.4.7",
+    "chai": "^3.5.0",
     "coffee-script": "^1.12.2",
     "mocha": "^3.2.x"
   },
