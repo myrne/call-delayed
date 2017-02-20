@@ -1,5 +1,7 @@
 # call-delayed [![Build Status](https://travis-ci.org/braveg1rl/call-delayed.png?branch=master)](https://travis-ci.org/braveg1rl/call-delayed) [![Dependency Status](https://david-dm.org/braveg1rl/call-delayed.png)](https://david-dm.org/braveg1rl/call-delayed)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/braveg1rl/call-delayed.svg)](https://greenkeeper.io/)
+
 setTimeout, but with arguments reversed.
 
 ## Rationale
