@@ -9,7 +9,7 @@
   "dependencies": {},
   "devDependencies": {
     "bluebird": "^3.4.7",
-    "chai": "^3.5.0",
+    "chai": "^4.1.1",
     "coffee-script": "^1.12.2",
     "mocha": "^3.2.x"
   },
