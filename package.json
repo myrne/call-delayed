@@ -15,7 +15,7 @@
   },
   "optionalDependencies": {},
   "engines": {
-    "node": "6.x.x"
+    "node": "10"
   },
   "main": "lib/call-delayed.js",
   "scripts": {
